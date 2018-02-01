@@ -1,5 +1,5 @@
 # 60pc_Keeb
-60% size keyboard including PCB, frame, and firmware. 
+60% size keyboard design including PCB, frame, and firmware. 
 
 ## THE PCB (built using kiCAD)
 * PCB uses a standard 60% keyboard layout and measures 306.75 mm x 98.25 mm.
