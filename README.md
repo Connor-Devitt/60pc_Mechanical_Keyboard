@@ -1,4 +1,4 @@
-# 60pc_Keeb
+# 60pc_Mechanical_Keyboard
 60% size mechanical keyboard design including PCB, frame, firmware. 
 
 ## The PCB (built using kiCAD)
