@@ -22,10 +22,10 @@
 * /SW contains all firmware
 
 ## Pictures (yay)
-https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/60pc_pcb_BOT.png
-https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/60pc_pcb_TOP.png
-https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Frame.png
-https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Keeyboard_Assemply.png
+!(https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/60pc_pcb_BOT.png)
+!(https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/60pc_pcb_TOP.png)
+!(https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Frame.png)
+!(https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Keeyboard_Assemply.png)
 
 ## Credit
 * Keyboard assembly made use of Kevin Yu's Cherry MX stabilizer and switch STEP. See https://grabcad.com/library/cherry-mx-switches-mx-1
