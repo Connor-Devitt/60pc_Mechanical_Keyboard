@@ -21,7 +21,11 @@
 * /HW/BOM contains a full parts list.
 * /SW contains all firmware
 
-## Pictures (yay)
+## Versions
+Version 1.0: Initial release
+Version 1.1: Smaller form factor and improved differential routing
+
+## Pictures (v1.0)
 ![Test](https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/60pc_pcb_BOT.png)
 ![Test](https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/60pc_pcb_TOP.png)
 ![Test](https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Frame.png)
