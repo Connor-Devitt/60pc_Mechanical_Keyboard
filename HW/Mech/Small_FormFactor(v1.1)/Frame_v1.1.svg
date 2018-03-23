@@ -139,7 +139,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="228.17337"
+     inkscape:cx="627.45908"
      inkscape:cy="650.61261"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -149,7 +149,7 @@
      units="in"
      inkscape:window-width="3840"
      inkscape:window-height="2035"
-     inkscape:window-x="3827"
+     inkscape:window-x="-13"
      inkscape:window-y="-13"
      inkscape:window-maximized="1" />
   <metadata
@@ -160,7 +160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5211,28 +5211,7 @@
       </g>
       <g
          id="g10005"
-         inkscape:label="IV_BEND_DOWN">
-        <path
-           id="path9997"
-           style="fill:none;stroke:#fe0000;stroke-opacity:1"
-           d="M 0,1231.5485 H 1207.3701"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path9999"
-           style="fill:#ff0000;stroke:#ff0000;fill-opacity:1;stroke-width:1.00157481;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 1207.3701,645.32266 H 0"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path10001"
-           style="fill:none;stroke:#ff0000;stroke-opacity:1"
-           d="M 0,1135.5485 H 1207.3701"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path10003"
-           style="fill:#ff0000;stroke:#ff0000;fill-opacity:1;stroke-opacity:1"
-           d="M 1207.3701,693.32266 H 0"
-           inkscape:connector-curvature="0" />
-      </g>
+         inkscape:label="IV_BEND_DOWN" />
       <g
          id="g10023"
          inkscape:label="IV_TANGENT" />
