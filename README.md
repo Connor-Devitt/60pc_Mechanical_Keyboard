@@ -1,25 +1,16 @@
 # 60pc_Mechanical_Keyboard
 60% size mechanical keyboard design including PCB, frame, firmware. 
 
-## The PCB (built using kiCAD)
+## The PCB (kiCAD)
 * PCB uses a standard 60% keyboard layout
 * Footprints designed for Cherry MX and clones.
 * Microcontroller is ATmega32u8.
 * Interfaces to PC over USB micro.
 
-## The Frame (built using Inventor 2018)
+## The Frame (Inventor 2018)
 * Made out of sheet aluminum
 * Cutouts for cherry style stabilizers
 * Approximatly 5 degree slope
-
-## The Firmware
-
-## Directories
-* /HW/PCB contains schematics, layouts, gerber, and drill files
-* /HW/Mech contains the frame design and keyboard assemblie
-* /HW/3D contains renderings of the keyboard
-* /HW/BOM contains a full parts list.
-* /SW contains all firmware
 
 ## Versions
 Version 1.0: Initial release
