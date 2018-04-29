@@ -31,6 +31,3 @@ Version 1.1: Smaller form factor and improved differential routing
 ![Test](https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Frame.png)
 ![Test](https://github.com/Connor-Devitt/60pc_Mechanical_Keeyboard/blob/master/HW/3D/Keeyboard_Assemply.png)
 
-## Credit
-* Keyboard assembly made use of Kevin Yu's Cherry MX stabilizer and switch STEP. See https://grabcad.com/library/cherry-mx-switches-mx-1
-
