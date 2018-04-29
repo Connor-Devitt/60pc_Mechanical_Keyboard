@@ -2,8 +2,8 @@
 60% size mechanical keyboard design including PCB, frame, firmware. 
 
 ## The PCB (kiCAD)
-* PCB uses a standard 60% keyboard layout
-* Footprints designed for Cherry MX and clones.
+* PCB uses a 60% keyboard layout
+* Footprints for Cherry MX and clones.
 * Microcontroller is ATmega32u8.
 * Interfaces to PC over USB micro.
 
