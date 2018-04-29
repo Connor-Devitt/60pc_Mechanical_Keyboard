@@ -4,7 +4,7 @@
 ## The PCB (kiCAD)
 * PCB uses a 60% keyboard layout
 * Footprints for Cherry MX and clones.
-* Microcontroller is ATmega32u8.
+* Microcontroller is ATmega32u4.
 * Interfaces to PC over USB micro.
 
 ## The Frame (Inventor 2018)
